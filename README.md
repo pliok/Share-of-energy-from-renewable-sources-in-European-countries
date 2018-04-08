@@ -1,16 +1,6 @@
 # mellamo
 https://pliok.github.io/mellamo/
 
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjdn7Pz5BFkrQUbiX31o39GRPJg8XT2ORJAPGFXsFrLXmI_4Gx3X9JEmHwEOgonywWuKIBN-uH8L8g/pubchart?oid=1168877872&amp;format=interactive"></iframe>
-
-<iframe src="https://pliok.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
-
-
-
-<iframe src="https://pliok.github.io/highcharts-scatter-csv" width="90%" height="400"></iframe>
-
-<!DOCTYPE html>
 <html>
 <head>
   <title>sample web page</title>
@@ -22,11 +12,4 @@ https://pliok.github.io/mellamo/
 </body>
 </html>
 
-
-
-
-
-
-<iframe src="https://public.tableau.com/views/ShareofenergyfromrenewablesourcesinEuropeancountries/Dashboard1?:embed=y&:display_count=yes&publish=yes"
- width="645" height="955"></iframe>
 
