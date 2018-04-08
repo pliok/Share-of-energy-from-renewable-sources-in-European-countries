@@ -1,5 +1,4 @@
 # mellamo
-https://pliok.github.io/mellamo/
 
 <html>
 <head>
